@@ -12,7 +12,7 @@ jailbreak tooling (rootless tweaks for Dopamine).
 I report what I find to Apple Product Security and publish the
 write‑ups once disclosure is complete.
 
-Outside research, I build Arabic‑first software that runs in production.
+Outside research, I build production software for Saudi companies and institutions.
 
 **Currently:** auditing Apple's open‑source components toward an Apple Security Bounty submission.
 
@@ -36,9 +36,8 @@ Reported to Apple Product Security — closed as non‑security (DoS class).\
 
 ## Things I build
 
-Independent developer of Arabic‑first ERP systems and private web platforms
-running in production for Saudi companies and institutions — plus native
-apps and an Arabic‑first PDF editor.
+Independent developer of ERP systems and private web platforms running
+in production — plus native apps and a PDF editor with full Arabic support.
 
 **Languages** — PHP · TypeScript · Swift · Objective‑C · C · C# · Python · Go · Shell
 
