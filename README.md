@@ -49,7 +49,7 @@ apps and an Arabic‑first PDF editor.
 
 ### Open source contributions
 
-- **PdfCraft** (16k★) — Arabic & Hebrew RTL text editing — open PRs
+- **PdfCraft** (16k★) — Arabic RTL text editing — open PRs
   [#3465](https://github.com/storytold/pdfcraft/pull/3465) ·
   [#2186](https://github.com/storytold/pdfcraft/pull/2186) ·
   [#2222](https://github.com/storytold/pdfcraft/pull/2222)
