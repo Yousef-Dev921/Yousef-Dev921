@@ -29,14 +29,14 @@ Outside research, I build production software for Saudi companies and institutio
 ## Research & open source
 
 <a href="https://github.com/Yousef-Dev921/Coretrust-IOS-History"><img src="assets/tool-coretrust.svg" width="49%" alt="Coretrust-IOS-History"></a> <a href="https://github.com/Yousef-Dev921/MuteLock"><img src="assets/tool-mutelock.svg" width="49%" alt="MuteLock"></a>
-<a href="https://github.com/Yousef-Dev921/repo"><img src="assets/tool-repo.svg" width="49%" alt="Sileo repo"></a> <a href="https://github.com/storytold/pdfcraft/pulls?q=is%3Apr+author%3AYousef-Dev921"><img src="assets/tool-pdfcraft.svg" width="49%" alt="PdfCraft contributions"></a>
+<a href="https://github.com/Yousef-Dev921/tajwal-360"><img src="assets/build-tajwal.svg" width="49%" alt="tajwal-360: 360° virtual tour builder"></a> <a href="https://github.com/storytold/pdfcraft/pulls?q=is%3Apr+author%3AYousef-Dev921"><img src="assets/tool-pdfcraft.svg" width="49%" alt="PdfCraft contributions"></a>
 
 ## Things I build
 
 <img src="assets/build-warqa.svg" width="100%" alt="warqa: offline PDF editor with first-class Arabic editing">
 
 <img src="assets/build-syntrix.svg" width="49%" alt="Syntrix: unified internal operations system"> <img src="assets/build-materials.svg" width="49%" alt="MATERIALSINDEX: bilingual Saudi construction materials registry with RFQ">
-<img src="assets/build-athar.svg" width="49%" alt="Athar Research: research output platform for a Saudi university"> <a href="https://github.com/Yousef-Dev921/tajwal-360"><img src="assets/build-tajwal.svg" width="49%" alt="tajwal-360: 360° virtual tour builder"></a>
+<img src="assets/build-athar.svg" width="100%" alt="Athar Research: research output platform for a Saudi university">
 
 ## Stack
 
