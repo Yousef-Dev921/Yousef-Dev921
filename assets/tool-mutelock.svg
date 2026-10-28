@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="432" height="140" viewBox="0 0 432 140" role="img" aria-label="MuteLock: Blocks camera and microphone access on jailbroken iOS 15 – 16.5 (Dopamine)">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0f1620"/><stop offset="1" stop-color="#0d1117"/>
+    </linearGradient>
+  </defs>
+  <rect x=".5" y=".5" width="431" height="139" rx="10" fill="url(#bg)" stroke="#30363d"/>
+  <text x="24" y="38" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" font-weight="700" fill="#e6edf3">MuteLock</text><rect x="293.2" y="22" width="118.8" height="22" rx="11" fill="none" stroke="#3ddc97" stroke-opacity=".55"/><text x="352.6" y="37" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="600" fill="#3ddc97">rootless tweak</text><text x="24" y="70" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" fill="#8b949e">Blocks camera and microphone access</text><text x="24" y="91" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" fill="#8b949e">on jailbroken iOS 15 – 16.5 (Dopamine)</text><circle cx="30" cy="116" r="5.5" fill="#438eff"/><text x="42" y="121" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e">Objective-C</text>
+</svg>

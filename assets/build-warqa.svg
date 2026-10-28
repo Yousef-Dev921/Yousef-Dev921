@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="140" viewBox="0 0 880 140" role="img" aria-label="warqa: A fully offline PDF editor that treats Arabic as a first-class script. Edits existing text, reshapes it in the document's own font, and reflows the paragraph.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0f1620"/><stop offset="1" stop-color="#0d1117"/>
+    </linearGradient>
+  </defs>
+  <rect x=".5" y=".5" width="879" height="139" rx="10" fill="url(#bg)" stroke="#30363d"/>
+  <text x="24" y="38" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" font-weight="700" fill="#e6edf3">warqa</text><rect x="791.6" y="22" width="68.4" height="22" rx="11" fill="none" stroke="#8b949e" stroke-opacity=".55"/><text x="825.8" y="37" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="600" fill="#8b949e">private</text><text x="24" y="70" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" fill="#8b949e">A fully offline PDF editor that treats Arabic as a first-class script.</text><text x="24" y="91" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" fill="#8b949e">Edits existing text, reshapes it in the document's own font, and reflows the paragraph.</text><circle cx="30" cy="116" r="5.5" fill="#178600"/><text x="42" y="121" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e">C#<tspan dx="16">.NET · Windows</tspan></text>
+</svg>
