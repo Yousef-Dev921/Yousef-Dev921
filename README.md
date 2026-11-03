@@ -3,22 +3,15 @@
 </p>
 
 <p align="center">
-  <img src="assets/whoami.svg" alt="$ whoami → breaking Apple file parsers / reading CoreTrust and AMFI internals / shipping production software in Saudi">
-</p>
-
-<p align="center">
   <a href="https://x.com/yousef_dev921"><img src="https://img.shields.io/badge/@yousef__dev921-000000?style=for-the-badge&logo=x&logoColor=white" alt="X @yousef_dev921"></a>
-  <img src="https://img.shields.io/badge/Apple_Product_Security-2_reports-3ddc97?style=for-the-badge&logo=apple&logoColor=white&labelColor=0d1117" alt="Apple Product Security: 2 reports">
-  <img src="https://img.shields.io/badge/based_in-Saudi_Arabia-0e4a63?style=for-the-badge&labelColor=0d1117" alt="Based in Saudi Arabia">
+  <img src="https://img.shields.io/badge/Apple_Product_Security-2_reports_submitted-3ddc97?style=for-the-badge&logo=apple&logoColor=white&labelColor=0d1117" alt="Two reports submitted to Apple Product Security">
 </p>
 
 ## About
 
-I do security research on Apple platforms: iOS and macOS internals, code‑signing (CoreTrust / AMFI), image and file‑format parsers, and jailbreak tooling (rootless tweaks for Dopamine). I report what I find to Apple Product Security and publish the write‑ups once disclosure is complete.
+I research iOS and macOS security, with a focus on code signing and file parsers. My work includes CoreTrust, AMFI, ImageIO, and rootless jailbreak tooling. I document my findings in technical write-ups and have submitted reports to Apple Product Security.
 
-Outside research, I build production software for Saudi companies and institutions.
-
-**Currently:** auditing Apple's open‑source components toward an Apple Security Bounty submission.
+I also build software for organizations in Saudi Arabia, including internal systems and document tools.
 
 ## Findings
 
