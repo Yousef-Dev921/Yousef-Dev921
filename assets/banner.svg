@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-label="Yousef, iOS and macOS security research">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-label="Yousef, security researcher and builder">
   <defs>
     <linearGradient id="g" x1="0" x2="1" y1="0" y2=".3">
       <stop offset="0" stop-color="#03130d"/><stop offset=".55" stop-color="#0b3b2e"/><stop offset="1" stop-color="#0e4a63"/>
@@ -20,6 +20,6 @@
     <rect width="1200" height="280" fill="url(#grid)"/>
     <circle cx="1050" cy="40" r="220" fill="#38bdf8" opacity=".07"/>
   </g>
-  <text x="64" y="118" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-weight="800" font-size="76" fill="#e6edf3" letter-spacing="2">YOUSEF<tspan class="cur" fill="#3ddc97">_</tspan></text>
-  <text x="68" y="160" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="22" fill="#3ddc97">// iOS &amp; macOS security research</text>
+  <text x="64" y="118" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-weight="800" font-size="76" fill="#e6edf3" letter-spacing="1">Yousef<tspan class="cur" fill="#3ddc97">_</tspan></text>
+  <text x="68" y="160" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="22" fill="#3ddc97">// security researcher &amp; builder</text>
 </svg>
