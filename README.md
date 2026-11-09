@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Yousef — security researcher & builder">
+  <img src="assets/header.svg" width="100%" alt="Yousef — security researcher & builder">
 </p>
 
 <p align="center">
@@ -23,8 +23,7 @@ I'm Yousef.
 
 <img src="assets/build-warqa.svg" width="100%" alt="warqa: offline PDF editor with first-class Arabic editing">
 
-<a href="https://github.com/storytold/pdfcraft/pulls?q=is%3Apr+author%3AYousef-Dev921"><img src="assets/tool-pdfcraft.svg" width="49%" alt="PdfCraft contributor: Arabic RTL text editing for an open source PDF editor with 20k stars"></a> <img src="assets/build-syntrix.svg" width="49%" alt="Syntrix: unified internal operations system">
-<img src="assets/build-materials.svg" width="49%" alt="MATERIALSINDEX: bilingual Saudi construction materials registry with RFQ"> <img src="assets/build-athar.svg" width="49%" alt="Athar Research: research output platform for a Saudi university">
+<a href="https://github.com/storytold/pdfcraft/pulls?q=is%3Apr+author%3AYousef-Dev921"><img src="assets/contrib-pdfcraft.svg" width="100%" alt="PdfCraft contributor: Arabic RTL text editing for an open source PDF editor with 20k stars"></a>
 
 ## Stack
 
